@@ -1,0 +1,160 @@
+body {
+    background-image: url('images/background.jpeg');
+    background-size: cover; /* Couvre tout le body */
+    background-repeat: no-repeat; /* Ne répète pas l'image */
+    background-position: center center; /* Centre l'image */
+    background-attachment: fixed; /* L'image reste fixe lors du défilement */
+}
+.firts-h2{
+    font-weight: bold;
+}
+.firts-h1{
+    font-weight: normal;
+    font-size: 80px;
+}
+.firts-nav{
+    background: url(images/Rectangle\ 39.png);
+    height: 120px;
+    padding: 20px;
+    margin-top: 80px;
+}
+.ul li a{
+    font-weight: bold;
+    font-size: 20px;
+}
+.img{
+    margin-top: -600px;
+    padding-left: 400px;
+}
+.img h6,.btn{
+    position: relative;
+    top: -310px;
+    left: -210px;
+}
+.img p{
+    font-size: 18px;
+    top: -310px;
+    left: -250px;
+}
+.img .btn{
+    background-color: rgb(134, 28, 28);
+    font-weight: bold;
+    font-size: 12px;
+    width: 10rem;
+    height: 3.5rem;
+}
+.second{
+    background-image: url('images/Rectangle\ 27.png');
+    height: 500px;
+    margin-top: 100px;
+}
+.second img{
+    margin-top: 80px;
+    border: 1px solid #f6e1c5;
+    padding: 7px;
+}
+.second h6{
+    position: relative;
+    top: -300px;
+}
+.second p{
+    
+    margin-top: 40px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    
+}
+footer{
+    background: url(images/Rectangle\ 39.png);
+    height: 150px;
+    color: white;
+    margin-top: 100px;
+}
+
+
+/* :::::page about:::::::::::::::::: */
+#about img{
+    margin-top: 100px;
+    width: 1130px;
+}
+.about-section{
+    position: relative;
+    top: -100px;
+}
+.about-section img{
+    width: 800px;
+    margin-left: 165px;
+}
+.about-section h4,p{
+    position: relative;
+    top: -280px;
+    left: 100px;
+    padding-left: 100px;
+}
+.footer{
+    height: 190px;
+    margin-top: -200px;
+}
+
+
+/*"""""""""""""""""""""""""""""""" Page products""""""""""""""""""""""""""""" */
+.section-product{
+    margin-top: 150px;
+    padding-left: 140px;
+}
+#section img{
+    position: relative;
+    width: 380px;
+    top: -680px;
+    left: 650px;
+}
+
+#section p{
+    position: relative;
+    top: -795px;
+    padding-left: 600px;
+}
+#section h4{
+    position: relative;
+    top: -795px;
+    padding-left: 700px;
+}
+.section img{
+    position: relative;
+    width: 510px;
+    top: -370px;
+    left: -180px;
+}
+.section p{
+    position: relative;
+    left: -250px;
+    top: -550px;
+    font-size: 20px;
+}
+
+/* """""""""""""""""""""""""""""""Page Strore"""""""""""""""""""""""""""" */
+.store{
+    margin-top: 150px;
+    background: url(images/Rectangle\ 27.png);
+    height: 900px;
+}
+.text-store{
+    background: url(images/Rectangle\ 40.png);
+    text-align: center;
+    height: 700px;
+    width: 60%;
+    margin-left: 260px;
+    position: relative;
+    top: 100px;
+    padding-top: 50px;
+}
+.horaire{
+    padding-top: 1rem;
+    padding-left: 5rem;
+}
+.horaire h6,H5{
+    font-family: MingliU_HKSCS-ExtB;
+}
+.horaire h5{
+    margin-left: 400px;
+}

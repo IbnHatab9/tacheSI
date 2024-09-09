@@ -1,0 +1,152 @@
+@media(max-width:991px) {
+    .firts-h2 {
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .firts-h1 {
+        font-weight: normal;
+        font-size: 30px;
+    }
+
+    .firts-nav {
+        background: url(images/Rectangle\ 39.png);
+        height: 50px;
+        padding: 10px;
+        margin-top: 40px;
+    }
+
+    .imgd {
+        /* position: relative; */
+        top: 1px;
+        right: 280px;
+    }
+
+    .imgd img {
+        width: 200px;
+    }
+
+    .img {
+        margin-top: -600px;
+        padding-left: 300px;
+    }
+
+    .img h6,
+    .btn {
+        position: relative;
+        top: -135px;
+        left: 55px;
+        font-size: 10px;
+    }
+
+    .h6 p {
+        font-size: 8px;
+        top: -140px;
+        left: -100px;
+        width: 300px;
+
+    }
+
+    .img .btn {
+        background-color: rgb(134, 28, 28);
+        font-weight: bold;
+        font-size: 12px;
+        width: 6rem;
+        height: 3rem;
+    }
+
+    .span {
+        width: 300px;
+        margin-left: -250px;
+        margin-top: 500px;
+    }
+
+    .second img {
+        margin-top: 20px;
+        border: 1px solid #f6e1c5;
+        padding: 7px;
+        width: 250px;
+        height: 240px;
+    }
+
+    .second {
+        background-image: url('images/Rectangle\ 27.png');
+        height: 280px;
+        margin-top: 100px;
+    }
+    .second h6{
+        position: relative;
+        top: -190px;
+    }
+    .second p{
+    
+        margin-top: 10px;
+        font-size: 10px;
+        letter-spacing: 2px;
+        /* margin-right: 100px; */
+        left: 20px;
+        width: 300px;
+    }
+    /* Fin Page Home */
+    #about img{
+        margin-top: 100px;
+        width: 400px;
+        height: 200px;
+        padding-left: 20px;
+    }
+    .about-section img{
+        margin-top: 50px;
+        width: 300px;
+        margin-left: 60px;
+        height: 200px;
+    }
+    .about-section h4,p{
+        position: relative;
+        top: -160px;
+        left: 55px;
+        padding-left: 10px;
+    }
+    .about-section h4{
+        font-size: 10px;
+    }
+
+
+    /* Page store */
+    .store{
+        margin-top: 150px;
+        background: url(images/Rectangle\ 27.png);
+        height: 300px;
+    }
+    .text-store{
+        background: url(images/Rectangle\ 40.png);
+        text-align: center;
+        height: 700px;
+        width: 90%;
+        margin-left: 23px;
+        position: relative;
+        top: 30px;
+        padding-top: 5px;
+    }
+    .horaire{
+        padding-top: 1rem;
+        padding-left: 10px;
+    }
+    .horaire h5{
+        margin-left: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {}
